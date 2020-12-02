@@ -6,6 +6,8 @@ Decription: 2020 AoC D1 - Find product of 2/3 numbers in input that sum to 2020
 """
 import numpy as np
 
+## Functions:
+
 def two_sumto_2020(numlist):
 	"""
 	Returns two numbers in list that sum to 2020.
@@ -36,6 +38,8 @@ def three_sumto_2020(numlist):
 				if n1 + n2 + n3 == 2020:
 					return(n1, n2, n3)
 	return("No three numbers in the list sum to 2020.")
+
+## Solution:
 
 input_numbers = np.genfromtxt(fname='input.txt')
 
