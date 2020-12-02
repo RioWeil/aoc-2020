@@ -39,7 +39,7 @@ def valid_password_p2(pos1, pos2, char, password):
 
 ## Solution
 
-text_file = open('/Users/ryoheiweil/Desktop/Advent_of_Code/Day2/input.txt', "r")
+text_file = open('input.txt', "r")
 lines = text_file.readlines()
 text_file.close()
 
