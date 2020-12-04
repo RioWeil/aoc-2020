@@ -22,7 +22,7 @@ def tree_number(xslope, yslope, landscape):
 
 ## Solution
 
-landscape = open('/Users/ryoheiweil/Desktop/Advent_of_Code/Day3/input.txt', "r").read().splitlines()
+landscape = open('input.txt', "r").read().splitlines()
 
 N11 = tree_number(1, 1, landscape)
 N31 = tree_number(3, 1, landscape)
