@@ -27,3 +27,4 @@ My solutions for the Advent of Code 2020 Challenge. A mix of Python and Racket (
 | 22      |        |            |
 | 23      |        |            |
 | 24      |        |            |
+| 25      |        |            |
