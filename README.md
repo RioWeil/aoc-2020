@@ -1,5 +1,5 @@
 # aoc-2020
-My solutions for the Advent of Code 2020 Challenge. A mix of Python and Racket (Intermediate Student Language) solutions. Efficiency should not be expected.
+My solutions for the Advent of Code 2020 Challenge. A mix of Python and Racket (Intermediate Student Language) solutions. In general, Racket was used where the problems had a naturally recursive structure, and python otherwise. Efficiency should not be expected.
 
 |   Day   | Python | Racket/ISL |
 | ------- | -------|------------|
@@ -13,3 +13,17 @@ My solutions for the Advent of Code 2020 Challenge. A mix of Python and Racket (
 | 8       |        |            |
 | 9       |        |            |
 | 10      | X      |            |
+| 11      |        |            |
+| 12      |        |            |
+| 13      |        |            |
+| 14      |        |            |
+| 15      |        |            |
+| 16      |        |            |
+| 17      |        |            |
+| 18      |        |            |
+| 19      |        |            |
+| 20      |        |            |
+| 21      |        |            |
+| 22      |        |            |
+| 23      |        |            |
+| 24      |        |            |
