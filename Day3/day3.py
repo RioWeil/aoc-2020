@@ -9,6 +9,9 @@ import numpy as np
 ## Functions:
 
 def tree_number(xslope, yslope, landscape):
+    """
+    Produces number of encountered trees in landscape when traversed with specified xslope and yslope.
+    """
     xpos = 0
     counter = 0
     line_length = len(landscape[0])
