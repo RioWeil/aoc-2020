@@ -55,7 +55,7 @@ def count_matching_letters(low):
 
 ## Solution:
 
-lines = open('/Users/ryoheiweil/Desktop/Advent_of_Code/Day6/input.txt', "r").read().splitlines()
+lines = open('input.txt', "r").read().splitlines()
 sorted_groups = group_answers(lines)
 
 sol1 = 0

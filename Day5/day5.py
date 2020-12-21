@@ -62,7 +62,7 @@ def missing_ID(ids, interval):
 
 ## Solution:
 
-passes = open('/Users/ryoheiweil/Desktop/Advent_of_Code/Day5/input.txt', "r").read().splitlines()
+passes = open('input.txt', "r").read().splitlines()
 passes_rowcol = map(get_row_col, passes)
 passes_id = []
 for i in passes_rowcol:
