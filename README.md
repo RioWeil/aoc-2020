@@ -13,7 +13,7 @@ My solutions for the Advent of Code 2020 Challenge. A mix of Python and Racket (
 | 8       | X      |            |
 | 9       | X      |            |
 | 10      | X      |            |
-| 11      |        |            |
+| 11      | X      |            |
 | 12      |        |            |
 | 13      |        |            |
 | 14      |        |            |
