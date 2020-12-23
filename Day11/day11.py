@@ -1,5 +1,5 @@
 """
-Date: 12/21/2020
+Date: 12/22/2020
 Name: Rio Weil
 Title: day11.py
 Decription: 2020 AoC D11 - Cellular Automaton
