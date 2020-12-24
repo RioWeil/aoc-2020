@@ -129,7 +129,7 @@ def solve_time_crt(buses_and_spacing):
     return x % N
 
 ## Solution:
-inputfile = open('/Users/ryoheiweil/Desktop/Advent_of_Code/Day13/input.txt', "r").read().splitlines()
+inputfile = open('input.txt', "r").read().splitlines()
 mytime = int(inputfile[0])
 available_buses = process_input_q1(inputfile[1])
 waittime_list = buses_waittime(mytime, available_buses)
