@@ -1,5 +1,5 @@
 """
-Date: 12/22/2020
+Date: 12/23/2020
 Name: Rio Weil
 Title: day13.py
 Decription: 2020 AoC D13 - Modular Arithmetic and CRT
