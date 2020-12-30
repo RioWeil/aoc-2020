@@ -1,5 +1,5 @@
 # aoc-2020
-My solutions for the Advent of Code 2020 Challenge. A mix of Python and Racket (Intermediate Student Language) solutions. Some of the Python solutions may require numPy, and you may need to edit the file to include the path to the directory for the input text file for it to run. The Racket solutions can be run by installing Dr. Racket and setting the language to be "Teaching Languages" and then "Intermediate Student with lambda". Efficiency should not be expected, neither in the speed or the number of lines!
+My solutions for the Advent of Code 2020 Challenge. Currently, solutions up to and including Day 15 are included. They are written in a mix of Python and Racket (Intermediate Student Language). Some of the Python solutions may require numPy, and you may need to edit the file to include the path to the directory for the input text file for it to run. The Racket solutions can be run by installing Dr. Racket and setting the language to be "Teaching Languages" and then "Intermediate Student with lambda". Efficiency should not be expected, neither in the speed or the number of lines!
 
 |   Day   | Python      | Racket/ISL |
 | ------- | ------------|------------|
